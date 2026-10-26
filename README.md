@@ -37,7 +37,7 @@ Grok Imagine is known for expressive stylization and fast iteration. This collec
 
 - **252** prompts in this collection
 - **9** Category
-- Last updated: 2026-10-20
+- Last updated: 2026-10-26
 - apimart.ai/model/grok-imagine-image
 
 ## Browse by Category

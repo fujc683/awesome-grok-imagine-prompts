@@ -9,6 +9,8 @@
 [English](README.md) | [简体中文](README_zh.md) | [日本語](README_ja.md)
 
 **[👉 Generate with Grok Imagine on APIMart · apimart.ai/model/grok-imagine-image](https://gola.apimart.ai/k-r2USiK)**
+
+`https://gola.apimart.ai/k-r2USiK`
 [💰 Pricing](https://gola.apimart.ai/k-nnpAjn) · [🔑 Get an API key](https://gola.apimart.ai/k-McQ5m7)
 
 
@@ -35,7 +37,7 @@ Grok Imagine is known for expressive stylization and fast iteration. This collec
 
 - **252** prompts in this collection
 - **9** Category
-- Last updated: 2026-10-26
+- Last updated: 2026-10-20
 - apimart.ai/model/grok-imagine-image
 
 ## Browse by Category

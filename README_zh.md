@@ -9,6 +9,8 @@
 [English](README.md) | [简体中文](README_zh.md) | [日本語](README_ja.md)
 
 **[👉 在 APIMart 上用 Grok Imagine 生成 · apimart.ai/model/grok-imagine-image](https://gola.apimart.ai/k-r2USiK)**
+
+`https://gola.apimart.ai/k-r2USiK`
 [💰 Pricing](https://gola.apimart.ai/k-nnpAjn) · [🔑 Get an API key](https://gola.apimart.ai/k-McQ5m7)
 
 
